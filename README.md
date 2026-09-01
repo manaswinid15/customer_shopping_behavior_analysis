@@ -102,19 +102,21 @@ Built an interactive dashboard featuring:
 ---
 
 ## 📁 Project Structure
-
+  
+```
 ├── data/
-│ └── customer_shopping_behavior.csv
+│   └── customer_shopping_behavior.csv
 ├── notebooks/
-│ └── customer_shopping_behavior_analysis.ipynb
+│   └── customer_shopping_behavior_analysis.ipynb
 ├── sql/
-│ └── customer_behaviour_project.sql
+│   └── customer_behaviour_project.sql
 ├── dashboard/
-│ └── customer_behavior_dashboard.pbix
+│   └── customer_behavior_dashboard.pbix
 ├── report/
-│ └── Customer Shopping Behavior Analysis.pdf
+│   └── Customer Shopping Behavior Analysis.pdf
 ├── presentation/
-│ └── Customer-Shopping-Behavior-Analysis.pdf
+│   └── Customer-Shopping-Behavior-Analysis.pdf
 └── README.md
-
-**MANASWINI.D** — Data Analyst 
+```
+ 
+**MANASWINI.D** — Data Analyst
